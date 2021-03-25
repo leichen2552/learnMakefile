@@ -1,0 +1,5 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/main/main.o /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/main/main.dep : src/main.c \
+ /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/common/inc/common.h \
+ inc/define.h \
+ /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/libs/inc/slib.h \
+ /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/libs/inc/dlib.h

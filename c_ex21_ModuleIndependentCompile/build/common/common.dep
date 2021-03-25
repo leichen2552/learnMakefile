@@ -1,0 +1,1 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/common/common.o /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/common/common.dep : src/common.c inc/common.h

@@ -1,0 +1,2 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/module/module.o /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/build/module/module.dep : src/module.c inc/module.h \
+ /home/einsfat/cl_document/learn_Makefile/c_ex21_ModuleIndependentCompile/common/inc/func.h
