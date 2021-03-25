@@ -1,0 +1,1 @@
+/home/einsfat/cl_document/learn_Makefile/qwea/build/common/func.o /home/einsfat/cl_document/learn_Makefile/qwea/build/common/func.dep : src/func.c inc/func.h

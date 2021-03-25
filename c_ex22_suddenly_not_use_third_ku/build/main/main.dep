@@ -1,0 +1,3 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex22_suddenly_not_use_third_ku/build/main/main.o /home/einsfat/cl_document/learn_Makefile/c_ex22_suddenly_not_use_third_ku/build/main/main.dep : src/main.c \
+ /home/einsfat/cl_document/learn_Makefile/c_ex22_suddenly_not_use_third_ku/common/inc/common.h \
+ inc/define.h

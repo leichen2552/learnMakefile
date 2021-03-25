@@ -1,0 +1,3 @@
+/home/einsfat/cl_document/learn_Makefile/qwea/build/main/main.o /home/einsfat/cl_document/learn_Makefile/qwea/build/main/main.dep : src/main.c inc/define.h \
+ /home/einsfat/cl_document/learn_Makefile/qwea/libs/inc/slib.h \
+ /home/einsfat/cl_document/learn_Makefile/qwea/libs/inc/dlib.h
