@@ -1,0 +1,18 @@
+TARGET := hello-makefile.out
+CC := gcc
+OBJS := fun.o main.o const.o
+
+$(TARGET) : $(OBJS)
+	$(CC) -o $@ $^
+
+$(OBJS) : %.o : %.c
+	$(CC) -o $@ -c $^
+
+.PHONY : clean rebuild all
+
+rebuild : clean all
+
+all : $(TARGET)
+
+clean :
+	$(RM) -f *.o *.out

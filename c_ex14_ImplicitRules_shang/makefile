@@ -1,0 +1,10 @@
+.PHONY: all
+
+
+VAR:= test
+
+all:
+	@echo "all:$(VAR)"
+
+include 1.mk
+

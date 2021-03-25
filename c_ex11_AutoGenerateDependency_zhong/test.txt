@@ -1,0 +1,3 @@
+other:
+	@echo "this is other"
+

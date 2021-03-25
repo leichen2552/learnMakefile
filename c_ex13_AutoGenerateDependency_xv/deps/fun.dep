@@ -1,0 +1,1 @@
+objs/fun.o deps/fun.dep : fun.c fun.h define.h new.h other.h

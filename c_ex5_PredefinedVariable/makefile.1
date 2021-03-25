@@ -1,0 +1,25 @@
+# $@ 当前规则中触发命令被执行的目标
+
+# $^ 当前规则中的所有依赖
+
+# $< 当前规则中的第一个依赖
+
+.PHONY : all out first second third
+
+all out : 
+	@echo "$(MAKE)"
+	@echo "$(MAKECMDGOALS)"
+	@echo "$(MAKEFILE_LIST)"
+
+first:
+	@echo "first"
+second:
+	@echo "second"
+third:
+	@echo "third"
+
+test:
+	@$(MAKE) first
+	@$(MAKE) second
+	@$(MAKE) third
+
