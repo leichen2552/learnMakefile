@@ -1,0 +1,2 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/build/module/module.o /home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/build/module/module.dep : src/module.c inc/module.h \
+ /home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/common/inc/func.h

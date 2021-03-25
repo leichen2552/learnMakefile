@@ -1,0 +1,3 @@
+/home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/build/main/main.o /home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/build/main/main.dep : src/main.c \
+ /home/einsfat/cl_document/learn_Makefile/c_ex19_CPE_xia/common/inc/common.h \
+ inc/define.h
